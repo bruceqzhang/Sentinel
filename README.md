@@ -1,4 +1,6 @@
-# Sentinel - Remote Controlled FPV Tank
+# Sentinel - Remote-Controlled FPV Tank
+
+![Finished Tank Design](demo/Tank.png)
 
 Sentinel is a custom-built tracked remote-controlled vehicle designed and engineered from the ground up. The project combines mechanical design, embedded systems, wireless communication, and robotics into a single platform.
 
@@ -31,6 +33,10 @@ The project involved designing the mechanical structure in CAD, fabricating cust
 ### Software
 - Arduino C/C++
 - Libraries including RF24, Servo, SPI, AccelStepper, XBOXONE from USB Host Shield 2.0
+
+## Motivation
+
+Sentinel began as a challenge to build something beyond a typical classroom robot. Rather than creating a simple automated device, I wanted to explore how mechanical design, electronics, and software could come together in a complete robotics system.
 
 ## Additional Resources
 
