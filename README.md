@@ -41,7 +41,7 @@ Sentinel began as a challenge taken by two friends to build something beyond a t
 ## Additional Resources
 
 ### CAD: 
-[Onshape Project](https://cad.onshape.com/documents/b79e3abf584a43eee74fb859/w/d53a2419a0c5a431a686b558/e/01db5a0ad86b4068f335d182?renderMode=0&leftPanel=false&uiState=6a681dbb82a8a31b618cd09d)  
+[Onshape Project](https://cad.onshape.com/documents/b79e3abf584a43eee74fb859/w/d53a2419a0c5a431a686b558/e/01db5a0ad86b4068f335d182)  
 
 ### Weekly Journals:
 [Week 1](https://docs.google.com/document/d/17Ajz8vXUG7C8QsSIpln7xRcLZVNVRcxvSVOUbZ24IYE/edit?usp=drive_link)  
