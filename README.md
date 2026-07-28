@@ -8,6 +8,10 @@ Built as a personal engineering challenge, Sentinel features a 3D-printed chassi
 
 The project involved designing the mechanical structure in CAD, fabricating custom parts, integrating electronics, developing the control software, and debugging a complex system of motors, sensors, and communication protocols.
 
+## Motivation
+
+Sentinel began as a challenge taken by two friends to build something beyond a typical classroom robot. Rather than creating a simple automated device, we wanted to explore how mechanical design, electronics, and software could come together in a complete robotics system.
+
 ## Features
 - Custom 3D-printed tracked chassis
 - Wireless remote control using 2.4 GHz communication
@@ -33,10 +37,6 @@ The project involved designing the mechanical structure in CAD, fabricating cust
 ### Software
 - Arduino C/C++
 - Libraries including RF24, Servo, SPI, AccelStepper, XBOXONE from USB Host Shield 2.0
-
-## Motivation
-
-Sentinel began as a challenge to build something beyond a typical classroom robot. Rather than creating a simple automated device, I wanted to explore how mechanical design, electronics, and software could come together in a complete robotics system.
 
 ## Additional Resources
 
